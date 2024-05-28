@@ -16,7 +16,8 @@ import { OrbitControls } from './jsm/controls/OrbitControls.js';
 import Stats from './jsm/libs/stats.module.js';
 
 // and also import the P5.js module:
-import p5 from 'https://cdn.skypack.dev/p5';
+//import p5 from 'https://cdn.skypack.dev/p5';
+import p5 from './p5.module.js';
 
 /*
   This is the function to turn an image file or a p5.js script into an object in Three.js
